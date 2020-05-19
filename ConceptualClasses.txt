@@ -1,0 +1,30 @@
+Unidade 1 – Aula 1
+
+Revisão: 
+Vetor: ex.: int A[10] = {0,1,2,3,4,5,6,7,8,9} => tipo nome e tamanho máximo.
+Matrix: ex.: int A[3][2] = 3 linhas e 2 colunas => para acessar: A[1][0]
+Criar um Registro: “struct” => estrutura de dados heterogêna
+ex.: struct nome n
+
+Unidade 1 – Aula 2
+
+Memória de um computador
+Toda variável fica dentro de um endereço;
+Char(1), Int(4), Float(4), double(8)
+Ponteiro => armazena endereços de memória, aponta o endereço de outra variável
+<tipo_de_ponteiro>*<nome_do_ponteiro>
+Quando tem o * é um ponteiro
+Ex.: int *p; => ponteiro de inteiros
+Fora da declaração: * => trabalha com o conteúdo
+Dentro da declaração:  *=> serve pra indicar que estamos declanrando um inteiro
+& => trabalhar com o endereço
+Var x =10 => variável com o valor 10
+Var p = &x => ponteiro com o endereço da variável x
+*p = 20 => pego o valor do endereço p e altero para 20
+
+
+Unidade  – Aula 3
+
+Alocação dinâmica de memória 
+
+
